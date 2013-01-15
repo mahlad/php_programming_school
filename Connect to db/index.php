@@ -12,6 +12,12 @@
 	
 	/*----select from table----*/
 	include 'select_db.php';
+
+	/*----select and order----*/
+	include 'order_db.php';
+
+	/*----update a field----*/
+	include 'update_db.php';
  ?>
 </body>
 </html>
