@@ -18,6 +18,9 @@
 
 	/*----update a field----*/
 	include 'update_db.php';
+
+	/*----delete a field----*/
+	include 'delete_db.php';
  ?>
 </body>
 </html>
